@@ -1,5 +1,9 @@
 # Angular File Structure
 
+This project is used to demonstrate and explain core files and project structure of an Angular application. 
+
+>Using Angular Versio 16
+
 ```bash
 
 angular-file-structure
